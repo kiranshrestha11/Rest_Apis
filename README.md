@@ -1,1 +1,2 @@
-# Rest_Apis
+# Restful Apis
+###GET POST PUT PATCh

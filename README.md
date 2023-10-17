@@ -1,2 +1,2 @@
 # Restful Apis
-###GET POST PUT PATCh
+### GET POST PUT PATCH
